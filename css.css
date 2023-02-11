@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: #0776A0;
+}
+
+.t {
+    text-align: center;
+}
+
+.v{
+    color: #FF2C00;
+}
+n{
+ text-align: center;
+ border-top: black 3px solid;
+}
+
+h1{
+    text-align: center;
+ border-bottom:  black 3px solid;
+ border-top: black 3px solid;
+}
+
+footer{
+    background-color: #024C68;
+}
+
+footer{
+    color:white;
+}
